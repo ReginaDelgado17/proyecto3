@@ -39,7 +39,7 @@ body{
     padding:0 40px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 
-background-image: url(foto1.jpg), url(foto7.jpg), url(foto5.jpg);   
+background-image: url(img/foto1.jpg), url(img/foto7.jpg), url(img/foto5.jpg);   
 background-position:left, center, right;
 background-repeat: no-repeat;
 background-size: 430px; 
